@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Lecture/ShareFolder/APIRetrofit(detail)/app/src/main/res/layout/activity_list_main.xml" value="0.2857142857142857" />
+        <entry key="..\:/Lecture/ShareFolder/APIRetrofit(detail)/app/src/main/res/layout/item_detail.xml" value="0.25" />
+        <entry key="..\:/Lecture/ShareFolder/APIRetrofit(detail)/app/src/main/res/layout/item_list.xml" value="0.25384615384615383" />
+        <entry key="..\:/Lecture/ShareFolder/APIRetrofit2/app/src/main/res/layout/activity_join.xml" value="0.3619791666666667" />
+        <entry key="..\:/Lecture/ShareFolder/APIRetrofit2/app/src/main/res/layout/activity_list_main.xml" value="0.3619791666666667" />
+        <entry key="..\:/Lecture/ShareFolder/APIRetrofit2/app/src/main/res/layout/activity_main.xml" value="0.3619791666666667" />
+        <entry key="..\:/Lecture/ShareFolder/APIRetrofit2/app/src/main/res/layout/item_detail.xml" value="0.3564102564102564" />
+        <entry key="..\:/Lecture/ShareFolder/APIRetrofit2/app/src/main/res/layout/item_list.xml" value="0.2546875" />
+        <entry key="..\:/Lecture/ShareFolder/kotlin/BlogExample02-master/APIRetrofit/app/src/main/res/layout/activity_main.xml" value="0.3605128205128205" />
+        <entry key="..\:/Lecture/ShareFolder/kotlin/BlogExample02-master/APIRetrofit/app/src/main/res/layout/item_list.xml" value="0.3605128205128205" />
+        <entry key="..\:/Lecture/ShareFolder/toy2/APIRetrofit(detail)/app/src/main/res/layout/activity_list_main.xml" value="0.296875" />
+        <entry key="..\:/Lecture/ShareFolder/toy2/APIRetrofit(detail)/app/src/main/res/layout/activity_main.xml" value="0.296875" />
+        <entry key="..\:/Lecture/ShareFolder/toy2/APIRetrofit(detail)/app/src/main/res/layout/item_detail.xml" value="0.296875" />
+        <entry key="..\:/Lecture/ShareFolder/toy2/APIRetrofit2/app/src/main/res/layout/activity_join.xml" value="0.25" />
+        <entry key="..\:/Lecture/ShareFolder/toy2/APIRetrofit2/app/src/main/res/layout/activity_list_main.xml" value="0.2752808988764045" />
+        <entry key="..\:/Lecture/ShareFolder/toy2/APIRetrofit2/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Lecture/ShareFolder/toy2/APIRetrofit2/app/src/main/res/layout/item_detail.xml" value="0.2890625" />
+        <entry key="..\:/Lecture/ShareFolder/toy2/APIRetrofit2/app/src/main/res/layout/item_list.xml" value="0.1" />
+        <entry key="..\:/Lecture/Sharefolder/12_android/workspace/android-workspace-master/2_programming/APIRetrofit(detail)/app/src/main/res/layout/item_detail.xml" value="0.5" />
+        <entry key="..\:/Lecture/Sharefolder/12_android/workspace/android-workspace-master/2_programming/APIRetrofit/app/src/main/res/layout/activity_list_main.xml" value="0.32974358974358975" />
+        <entry key="..\:/Lecture/Sharefolder/12_android/workspace/android-workspace-master/2_programming/APIRetrofit/app/src/main/res/layout/activity_main.xml" value="0.33489583333333334" />
+        <entry key="..\:/Lecture/Sharefolder/12_android/workspace/android-workspace-master/2_programming/APIRetrofit/app/src/main/res/layout/item_detail.xml" value="0.25" />
+        <entry key="..\:/Lecture/Sharefolder/12_android/workspace/android-workspace-master/2_programming/APIRetrofit/app/src/main/res/layout/item_list.xml" value="0.33489583333333334" />
+        <entry key="..\:/Lecture/Sharefolder/12_android/workspace/android-workspace-master/2_programming/APIRetrofit2/app/src/main/res/layout/activity_main.xml" value="0.2953703703703704" />
+        <entry key="..\:/Lecture/Sharefolder/12_android/workspace/android-workspace-master/2_programming/APIRetrofit2/app/src/main/res/layout/item_detail.xml" value="0.2953703703703704" />
+        <entry key="..\:/Lecture/Sharefolder/12_android/workspace/android-workspace-master/2_programming/APIRetrofit2/app/src/main/res/layout/item_list.xml" value="0.2953703703703704" />
+        <entry key="..\:/Users/tlsgh/BlogExample02/APIRetrofit/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/tlsgh/BlogExample02/APIRetrofit/app/src/main/res/layout/item_list.xml" value="0.36614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

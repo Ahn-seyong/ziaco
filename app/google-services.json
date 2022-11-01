@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "318926727713",
+    "project_id": "authentication-806d3",
+    "storage_bucket": "authentication-806d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318926727713:android:b4da15947f25aed9ddd160",
+        "android_client_info": {
+          "package_name": "com.greedy.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318926727713-a13c1dbnf3kk3pmff4cuqrgm4vk5atcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHg_Sfdy3zplKSHwsskXW4z5FNyBYT4jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318926727713-a13c1dbnf3kk3pmff4cuqrgm4vk5atcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318926727713:android:7c57d66a7b014415ddd160",
+        "android_client_info": {
+          "package_name": "com.notepad96.apiretrofit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318926727713-a13c1dbnf3kk3pmff4cuqrgm4vk5atcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHg_Sfdy3zplKSHwsskXW4z5FNyBYT4jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318926727713-a13c1dbnf3kk3pmff4cuqrgm4vk5atcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
